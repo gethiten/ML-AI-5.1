@@ -48,4 +48,5 @@ The analysis reveals potential profiles of drivers who are more likely to accept
 
 *   `Python`: pandas, NumPy, scikit-learn, OS
 *   `Data Visualization:`: Matplotlib, Seaborn.
+*   `Tools`: Google Colab, Jupyter
 
