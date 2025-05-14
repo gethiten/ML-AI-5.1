@@ -53,11 +53,11 @@ The analysis reveals potential profiles of drivers who are more likely to accept
 *   `coupons.ipynb`: Jupyter Notebook containing the code for data exploration, analysis, and visualization.
                      [Link: coupons.ipynb](https://github.com/gethiten/ML-AI-5.1/blob/main/coupons.ipynb)
 *   `images/`: Folder containing generated visualizations. [Images Link](https://github.com/gethiten/ML-AI-5.1/tree/main/images)
-*   `README.md`: This file, providing an overview of the project. [README.md Link]
+*   `README.md`: This file, providing an overview of the project. [README.md Link](https://github.com/gethiten/ML-AI-5.1/blob/main/README.md)
 
 ## Tech Stacks
 
-*   `Python`: pandas, NumPy, scikit-learn, OS
+*   `Python`: Pandas, NumPy, OS
 *   `Data Visualization:`: Matplotlib, Seaborn.
 *   `Tools`: Google Colab, Jupyter
 
