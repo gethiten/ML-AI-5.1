@@ -52,8 +52,8 @@ The analysis reveals potential profiles of drivers who are more likely to accept
 *   `data/`: Contains the dataset used in the analysis [(coupons.csv)](https://github.com/gethiten/ML-AI-5.1/blob/main/data/coupons.csv).
 *   `coupons.ipynb`: Jupyter Notebook containing the code for data exploration, analysis, and visualization.
                      [Link: coupons.ipynb](https://github.com/gethiten/ML-AI-5.1/blob/main/coupons.ipynb)
-*   `images/`: Folder containing generated visualizations.
-*   `README.md`: This file, providing an overview of the project.
+*   `images/`: Folder containing generated visualizations. [Images Link](https://github.com/gethiten/ML-AI-5.1/tree/main/images)
+*   `README.md`: This file, providing an overview of the project. [README.md Link]
 
 ## Tech Stacks
 
